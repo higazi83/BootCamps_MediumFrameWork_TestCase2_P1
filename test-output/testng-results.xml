@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T18:10:02 EST" name="Default suite" finished-at="2024-01-12T18:10:22 EST" duration-ms="20572">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T18:10:02 EST" name="Default test" finished-at="2024-01-12T18:10:22 EST" duration-ms="20572">
+      <class name="com.qa.TestCases.ProductCheckOutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestCases.ProductCheckOutTest@3349e9bb]" started-at="2024-01-12T18:10:02 EST" name="setup" finished-at="2024-01-12T18:10:10 EST" duration-ms="8063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkoutProduct()[pri:0, instance:com.qa.TestCases.ProductCheckOutTest@3349e9bb]" started-at="2024-01-12T18:10:10 EST" name="checkoutProduct" finished-at="2024-01-12T18:10:22 EST" duration-ms="11950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.TestCases.ProductCheckOutTest@3349e9bb]" started-at="2024-01-12T18:10:22 EST" name="teardown" finished-at="2024-01-12T18:10:22 EST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.TestCases.ProductCheckOutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
